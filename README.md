@@ -1,2 +1,3 @@
-# public
-General Public Stuff
+# ySupport Public Repo
+
+Publically published projects and code.
